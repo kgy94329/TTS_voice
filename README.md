@@ -72,3 +72,5 @@ tensorboard --logdir checkpoints/<folder> --port 6006
 ## Inference
 ### Jupyter notebook
 [infer.ipynb](infer.ipynb)
+## Based On
+[VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/jaywalnut310/vits)
