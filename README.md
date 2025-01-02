@@ -1,6 +1,6 @@
 # How to use
 ## Choose cleaners
-- 우리는 한국어 모델이므로 korean_cleaners를 사용
+- Karuna 보이스 모델이므로 korean_cleaners를 사용
 - config.json에 사용할 text_cleaner 설정
 - Remove unnecessary imports from text/cleaners.py
 ## Python version
